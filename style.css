@@ -101,7 +101,7 @@ button:hover {
 }
 
 /* New Task */
-.new-task  {
+.new-task {
     display: block;
     margin: 0 0 20px;
 }
@@ -136,7 +136,7 @@ button:hover {
     width: 226px;
 }
 
-.task-item>.input-task{
+.task-item>.input-task {
     width: 226px
 }
 
